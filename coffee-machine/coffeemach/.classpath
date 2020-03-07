@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Juan Felipe/Documents/Semestre 8-8/Arquitectura de Software/Proyecto Final/Proyecto/coffeemach/lib-ext/org.eclipse.stp.sca.osoa_1.0.0.201205240725.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
